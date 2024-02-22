@@ -1,3 +1,11 @@
+# OEM Cable Adapter
+
+An adapter to use OEM wired cable for Olympia's USB-C GCC shell.  
+
+![image](https://github.com/VIZARDCLUB/OEM-Cable-Adapter/assets/134335147/23959bf2-53c8-4d5e-9275-40f8b6a2688b)
+![image](https://github.com/VIZARDCLUB/OEM-Cable-Adapter/assets/134335147/62dcc4a4-8750-42bf-a162-c20451b154d7)
+![image](https://github.com/VIZARDCLUB/OEM-Cable-Adapter/assets/134335147/8e888ce1-7c21-4235-8141-5e61e4579860)
+
 # Removable-Gate-GCC
 
 This is a collection of custom gamecube controller files made to be resin printed. These files feature a variety of mods. Removable Gates, Digitally Notched Gateplates, Double Z, USB-C, Metal Threaded Shell Inserts, and a Fully Parametric Custom Notch Builder Tool!
