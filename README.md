@@ -1,6 +1,7 @@
 # OEM Cable Adapter
 
 An adapter to use OEM wired cable for Olympia's USB-C GCC shell.  
+It's modified from BjartPlug.
 
 ![image](https://github.com/VIZARDCLUB/OEM-Cable-Adapter/assets/134335147/23959bf2-53c8-4d5e-9275-40f8b6a2688b)
 ![image](https://github.com/VIZARDCLUB/OEM-Cable-Adapter/assets/134335147/62dcc4a4-8750-42bf-a162-c20451b154d7)
